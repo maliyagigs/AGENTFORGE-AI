@@ -1,0 +1,6 @@
+{
+  "name": "AI Agent Swarm Builder",
+  "description": "Interactive niche-focused multi-agent compiler & simulation workbench powered by server-side Gemini 3.5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
